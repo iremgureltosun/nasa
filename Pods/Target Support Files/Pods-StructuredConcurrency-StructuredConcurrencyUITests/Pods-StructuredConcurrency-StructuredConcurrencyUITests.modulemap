@@ -1,0 +1,6 @@
+framework module Pods_StructuredConcurrency_StructuredConcurrencyUITests {
+  umbrella header "Pods-StructuredConcurrency-StructuredConcurrencyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
